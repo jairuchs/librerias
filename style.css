@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 7em;
+}
+
+.navbar-nav li:hover{
+    transform: scale(2);
+    transition: all 3s;
+}
+
+.container-fluid{
+    background: lightblue;
+ }
+

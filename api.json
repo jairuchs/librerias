@@ -1,0 +1,39 @@
+[
+    {
+        "precio": 120000,
+        "id": 1,
+        "title": "iphone11",
+        "thumbnailUrl": "http://www.vicionet.com/Vel/418-large_default/apple-iphone-11-128gb-.jpg"
+    },
+    {
+        "precio": 250000,
+        "id": 2,
+        "title": "iphone12",
+        "thumbnailUrl": "https://i.insider.com/6082e0871041d50019f2de6b"
+    },
+    {
+        "precio": 70000,
+        "id": 3,
+        "title": "a13",
+        "thumbnailUrl": "https://images.fravega.com/f500/7ec2bd0ba66520b1402119c5feef3cda.jpg"
+    },
+    {
+        "precio": 98000,
+        "id": 4,
+        "title": "a32",
+        "thumbnailUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a325mzkmaro/gallery/ar-galaxy-a32-a325-sm-a325mzkmaro-399841305?$650_519_PNG$"
+    },
+    {
+        "precio": 140000,
+        "id": 5,
+        "title": "s22",
+        "thumbnailUrl": "https://images.samsung.com/is/image/samsung/p6pim/latin/2202/gallery/latin-galaxy-s22-s901-412920-sm-s901ezgjgto-530963222?$650_519_PNG$"
+    },
+    {
+        "precio": 92000,
+        "id": 6,
+        "title": "note11",
+        "thumbnailUrl": "https://s1.eestatic.com/2022/03/24/elandroidelibre/moviles-android/659694284_222959379_1706x1261.jpg"
+    }
+]
+
